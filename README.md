@@ -18,23 +18,6 @@ We used Logistic Regression, Decision Tree, Random Forest, and XGboost classifie
 
 *This project serves for the final term requirement of DSC 462 data mining 2018 Fall course*
 
-### Data Files
-
-Data file: open the .csv file as running in the code in the jupyter notebook. Running the code step by step. 
-
-The [data](https://drive.google.com/drive/folders/1kUA2g_5bJJRXGUCikCbdzNJ2gh0U-5Lu?usp=sharing) file includes three .csv file as follow: 
-
-diabetic_data.csv 
-
-modified_diabetes1205_beforeEDA.csv
-
-smote_data.csv
-
-### Summary of the Numerical Features
-
-![Numerical_features](https://github.com/moggirain/Hospital_readmission_prediction/blob/master/Numerical_features.png)
-
- 
 ### Credits
 
 - Bhuvan, M.S., Kumar, A., Zafar, A. and Kishore, V., 2016. Identifying diabetic patients with high risk of readmission. *arXiv preprint arXiv:1602.04257*.
@@ -46,4 +29,4 @@ smote_data.csv
 This project is currently maintained by Sai Sharath Chandra Venepally, a Software Engineer with 8+ years of professional experience. He specializes in developing scalable, enterprise-grade applications and has a strong background in data analysis and machine learning. Sai Sharath Chandra is committed to leveraging data-driven insights to solve complex problems and continuously improve project quality.
 
 *   **Email:** sharathvenepally603@gmail.com
-*   **LinkedIn:** https://linkedin.com/in/aniruddhatrey
+*   **LinkedIn:** https://www.linkedin.com/in/sharath-chandra-venepally
