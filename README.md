@@ -28,5 +28,5 @@ We used Logistic Regression, Decision Tree, Random Forest, and XGboost classifie
 
 This project is currently maintained by Sai Sharath Chandra Venepally, a Software Engineer with 8+ years of professional experience. He specializes in developing scalable, enterprise-grade applications and has a strong background in data analysis and machine learning. Sai Sharath Chandra is committed to leveraging data-driven insights to solve complex problems and continuously improve project quality.
 
-*   **Email:** sharathvenepally603@gmail.com
-*   **LinkedIn:** https://www.linkedin.com/in/sharath-chandra-venepally
+*   **Email:** sharath.ve27@gmail.com
+*   **LinkedIn:** www.linkedin.com/in/sharath-venepally
